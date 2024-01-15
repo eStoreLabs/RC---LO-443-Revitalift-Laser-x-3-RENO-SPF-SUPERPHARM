@@ -1098,7 +1098,7 @@ body {
 }
 
 #es-loreal.es-loreal .es-slider .slick-dots li {
-  width: 12px;
+  min-width: 12px;
   height: 12px;
   display: inline-block;
   border-radius: 50%;
